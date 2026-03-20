@@ -1,1 +1,2 @@
 This is my git practical file
+this text added from the github platfrom!
